@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/dtbohkfpy/image/upload/v1691328222/Open-Source-Libraries-for-NodeJS_rczkuw.gif)](/)
+[![MasterHead](https://res.cloudinary.com/dtbohkfpy/image/upload/v1691341205/Open-Source-Libraries-for-NodeJS_rczkuw_fjpbzk.gif)](/)
 <h1 align="center">Hi 👋, I'm Sudhin Devan</h1>
 <h3 align="center">A passionate full Stack web developer from India</h3>
 <img align="right" width="400" src="https://res.cloudinary.com/dtbohkfpy/image/upload/v1691322488/animatedcoding_quygjj.gif" alt="coding">
