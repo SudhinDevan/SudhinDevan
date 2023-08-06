@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **something cool**
 
-- 📫 How to reach me **sudhindevan@gmail.com**
+- 📫 Reach me on **sudhindevan@gmail.com**
 
 - ⚡ Fun fact **I am always enthusiastic**
 
