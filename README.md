@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I am always enthusiastic**
 
-- (U+1F517) [Sudhindevan.com](https://sudhindevan.github.io/Sudhin_Portfolio/)
+- 🔗 [Sudhindevan.com](https://sudhindevan.github.io/Sudhin_Portfolio/)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
