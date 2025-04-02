@@ -7,15 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/sudhindevan" target="blank"><img src="https://img.shields.io/twitter/follow/sudhindevan?logo=twitter&style=for-the-badge" alt="sudhindevan" /></a> </p>
 
-- 🔭 I’m currently working on **SkillSail-An eLearning platform**
-
 - 🌱 I’m currently learning **Repository Architecture**
 
 - 💬 Ask me about **My Latest Project**
 
 - 📫 Reach me on **sudhindevan@gmail.com**
-
-- ⚡ Fun fact **I am always enthusiastic**
 
 - 🔗 [Sudhindevan.com](https://sudhindevan.github.io/Sudhin_Portfolio/)
   
